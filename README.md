@@ -19,3 +19,8 @@ Probando Github al 100%
 |     3| SQL       |
   
 </details>
+
+---
+> Has lo que se debe, no lo que quieras
+
+- Esteban J. V
