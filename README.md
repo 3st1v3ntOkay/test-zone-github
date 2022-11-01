@@ -52,3 +52,6 @@ The background color should be `#ffffff` for light mode and `#0d1117` for dark m
 |   HEX    |  `#ffffff`             |
 |   RGB    |  `rgb(9, 105, 218)`    |
 |   HSL    |  `hsl(212, 92%, 45%)`  |
+
+### Links
+This site was built using [GitHub Pages](https://pages.github.com/).
