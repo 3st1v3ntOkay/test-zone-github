@@ -9,7 +9,7 @@ Probando Github al 100%
 
 ## Ecoo!! Una tabla?!?!
 
-<details>
+<details open>
 <summary>My top languages</summary>
 
 | Rank | Languages |
