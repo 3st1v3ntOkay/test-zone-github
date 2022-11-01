@@ -25,6 +25,13 @@ Probando Github al 100%
 
 — Mona the Octocat
 
-## About me
-
+## About Formatting Syntax
 <!-- TO DO: add more details about me later -->
+
+**This is bold text**
+*This text is italicized*
+	~~This was mistaken text~~
+ **This text is _extremely_ important**
+***All this text is important***
+This is a subscript<sub>This is a subscript text</sub>
+This is a superscript<sup>This is a subscript text</sup>
