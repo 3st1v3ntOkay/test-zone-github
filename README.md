@@ -21,6 +21,10 @@ Probando Github al 100%
 </details>
 
 ---
-> Has lo que se debe, no lo que quieras
+> Github esta bueno
 
-- Esteban J. V
+— Mona the Octocat
+
+## About me
+
+<!-- TO DO: add more details about me later -->
