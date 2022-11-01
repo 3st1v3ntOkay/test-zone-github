@@ -35,3 +35,20 @@ Probando Github al 100%
 ***All this text is important***
 This is a subscript<sub>This is a subscript text</sub>
 This is a superscript<sup>This is a subscript text</sup>
+
+### Citando Codigo
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
+
+### Soporte a Modelos de colores
+The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
+
+|   Color  |   Output               |
+|----------|------------------------|
+|   HEX    |  `#ffffff`             |
+|   RGB    |  `rgb(9, 105, 218)`    |
+|   HSL    |  `hsl(212, 92%, 45%)`  |
