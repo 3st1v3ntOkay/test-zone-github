@@ -14,10 +14,9 @@ Probando Github al 100%
 
 | Rank | Languages  |
 |:---|---|
-|     1| `JS` |
-|     2| `React` |
-|     3| `Nextjs 13` |
-  
+|1|`JS`|
+|2|`React`|
+|3|`Nextjs 13`|
 </details>
 
 ---
@@ -47,11 +46,11 @@ git commit
 ### Soporte a Modelos de colores
 The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
 
-|   Color  |   Output               |
-|----------|------------------------|
-|   HEX    |  `#ffffff`             |
-|   RGB    |  `rgb(9, 105, 218)`    |
-|   HSL    |  `hsl(212, 92%, 45%)`  |
+|Color|Output|
+|---|---|
+|HEX|`#ffffff`|
+|RGB|`rgb(9, 105, 218)`|
+|HSL|`hsl(212, 92%, 45%)`|
 
 ### Links
 This site was built using [GitHub Pages](https://pages.github.com/).
@@ -98,3 +97,30 @@ You can also use words, to fit your writing style more closely[^note].
     Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
     This footnote also has been made with a different syntax using 4 spaces for new lines.
    
+### Diagramas
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [-90,35],
+              [-90,30],
+              [-85,30],
+              [-85,35],
+              [-90,35]
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
