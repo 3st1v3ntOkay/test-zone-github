@@ -14,9 +14,9 @@ Probando Github al 100%
 
 | Rank | Languages  |
 |:---|---|
-|     1| Javascript |
-|     2| Python     |
-|     3| SQL        |
+|     1| `JS` |
+|     2| `React` |
+|     3| `Nextjs 13` |
   
 </details>
 
